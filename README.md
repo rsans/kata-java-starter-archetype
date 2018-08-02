@@ -11,4 +11,4 @@ Maven 3.3.9+
  - Then move to that cloned directory and call mvn install.
  - Finally move to a fresh directory and use the archetype:
 
-mvn archetype:generate -B -DarchetypeCatalog=local -DarchetypeGroupId=com.rubensans.katas-java -DarchetypeArtifactId=kata-java-starter-archetype -DarchetypeVersion=0.0.1-SNAPSHOT -DgroupId=com.kata -DartifactId=kataname
+mvn archetype:generate -B -DarchetypeCatalog=local -DarchetypeGroupId=com.rubensans.katas-java -DarchetypeArtifactId=kata-java-starter-archetype -DarchetypeVersion=0.0.1 -DgroupId=com.kata -DartifactId=kataname
